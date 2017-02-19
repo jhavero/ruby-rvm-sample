@@ -1,5 +1,7 @@
 # ruby-rvm-sample
 
+HERE alex
+
 asdfasdf
 recardo
 
