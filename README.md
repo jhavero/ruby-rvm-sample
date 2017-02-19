@@ -1,5 +1,6 @@
 # ruby-rvm-sample
 
+asdfasdf
 recardo
 
 /Users/araguero/gitrepos/ruby-rvm-sample
